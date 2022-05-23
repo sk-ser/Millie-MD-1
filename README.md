@@ -32,7 +32,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change Neeraj-X0 to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie-MD
+  https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie-MD-1
 ```
 <br>
 
