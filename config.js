@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["972522734920"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -43,22 +43,22 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
-global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.linkgc = 'https://api.whatsapp.com/send?phone=+972522734920&text=𝐇𝐞𝐲%20𝐕𝐫𝐨🎭'
+global.linkig = 'https://instagram.com/skdevilsir?igshid=YmMyMTA2M2Y=  '
+global.linkyt = 'https://youtube.com/channel/UCUULVPBn6CEB3shUTHHYuKw'
+global.linkfb = 'https://www.facebook.com/profile.php?id=100079513959181'
+global.git = 'https://github.com/salman-ofc'
+global.web1 = 'https://skdevilser.github.io/'
+global.url = 'https://api.whatsapp.com/send?phone=+972522734920&text=𝐇𝐞𝐲%20𝐕𝐫𝐨🎭'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
-global.name = 'Millie MULTI-DEVICE'
+global.packname = process.env.PACKNAME ||'© sᴋ ᴅᴇᴠɪʟ sᴇʀ-ᴍᴅ'
+global.author = process.env.AUTHOR ||'sᴀʟᴍᴀɴ-ᴏғᴄ'
+global.name = 'Sk Devil MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| '© sᴋ ᴅᴇᴠɪʟ sᴇʀ-ᴍᴅ'
+global.owner_name = process.env.OWNER_NAME || 'Salman-Ofc'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'skdevilsir'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
