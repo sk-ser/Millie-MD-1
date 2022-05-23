@@ -26,7 +26,7 @@ try{
   let jid = text.split(',')
   const veri = {"key": { "participant": '0@s.whatsapp.net', "remoteJid": '919383400679-1614953337@g.us' }, "message": {"orderMessage": {"itemCount": 2022, "status": 999, "thumbnail": await (await fetch('https://avatars.githubusercontent.com/u/64305844?v=4')).buffer(), "surface": 999, "message": `ＡＬＩＥＮ ＡＬＦＡ`, "orderTitle": 'Alien-Alfa', "sellerJid": '0@s.whatsapp.net'}}}
   for (let id of jid) {
-await conn.copyNForward(id, cc, 'conversation',{contextInfo:{externalAdReply: { title: `ɴᴇᴇʀᴀᴊ-x0`, body: `𝙼𝚒𝚕𝚕𝚒𝚎 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝`, mediaUrl: tod, mediaType: 2, thumbnail: fs.readFileSync('./media/image/neeraj.jpg')}},mp3:true} ,true)
+await conn.copyNForward(id, cc, 'conversation',{contextInfo:{externalAdReply: { title: `sᴀʟᴍᴀɴ-ᴏғᴄ`, body: `𝚂𝚔 𝚍𝚎𝚟𝚒𝚕 𝚜𝚎𝚛 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝`, mediaUrl: tod, mediaType: 2, thumbnail: fs.readFileSync('./media/image/neeraj.jpg')}},mp3:true} ,true)
 }}catch(e){
     conn.reply(m.chat,`${e}`)
     conn.reply('120363022211098165@g.us',`𝗨𝗵𝗼𝗵! 𝗮𝗻 𝗲𝗿𝗿𝗼𝗿 𝗢𝗰𝗰𝘂𝗿𝗲𝗱 
